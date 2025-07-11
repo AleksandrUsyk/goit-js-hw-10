@@ -23,7 +23,3 @@
   animation: slide 500ms linear infinite alternate-reverse both;
   animation-play-state: paused;
 }
-.back-link:hover::before {
-  opacity: 1;
-  animation-play-state: running;
-}
